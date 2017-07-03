@@ -1,0 +1,480 @@
+[
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "96f55c7d8f42",
+    "event_time": "2017-01-06T12:46:46.384Z",
+    "last_name": "Smith",
+    "adr_city": "Middletown",
+    "adr_state": "AK"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-06T12:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "d8ede43b1d9f",
+    "event_time": "2017-01-06T12:47:12.344Z",
+    "customer_id": "96f55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 80D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-06T12:55:55.555Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "12.34 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-07T18:00:00.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-07T18:00:55.335Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "10.5 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-09T11:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "11.5 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-17T12:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "21.0 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-23T11:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-23T11:55:15.555Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "13.0 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-24T12:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-06T12:47:12.344Z",
+    "customer_id": "96f55c7d8f43",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-06T12:47:12.344Z",
+    "customer_id": "96f55c7d8f43",
+    "total_amount": "10.0 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-07T18:00:00.041Z",
+    "customer_id": "96f55c7d8f43",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-07T18:00:00.041Z",
+    "customer_id": "96f55c7d8f43",
+    "total_amount": "11.0 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f43",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f43",
+    "total_amount": "12.0 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f43",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f43",
+    "total_amount": "13.0 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-06T12:47:12.344Z",
+    "customer_id": "96f55c7d8f44",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-06T12:47:12.344Z",
+    "customer_id": "96f55c7d8f44",
+    "total_amount": "9.5 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-07T18:00:00.041Z",
+    "customer_id": "96f55c7d8f44",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-07T18:00:00.041Z",
+    "customer_id": "96f55c7d8f44",
+    "total_amount": "6.5 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f44",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f44",
+    "total_amount": "10.4 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f44",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f44",
+    "total_amount": "15.4 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-23T11:45:52.041Z",
+    "customer_id": "96f55c7d8f44",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-23T11:45:52.041Z",
+    "customer_id": "96f55c7d8f44",
+    "total_amount": "13.4 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-23T11:45:52.041Z",
+    "customer_id": "96f55c7d8f44",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-07T17:00:00.041Z",
+    "customer_id": "96f55c7d8f45",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-07T18:00:00.041Z",
+    "customer_id": "96f55c7d8f45",
+    "total_amount": "20.43 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-17T11:55:25.555Z",
+    "customer_id": "96f55c7d8f45",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f45",
+    "total_amount": "6.5 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-18T11:55:05.555Z",
+    "customer_id": "96f55c7d8f45",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-19T11:55:25.555Z",
+    "customer_id": "96f55c7d8f45",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": " ",
+    "event_time": "2017-01-20T11:55:25.555Z",
+    "customer_id": "96f55c7d8f45",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": " ",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-21T11:55:25.555Z",
+    "customer_id": "96f55c7d8f45",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-06T11:47:12.344Z",
+    "customer_id": "96f55c7d8f46",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-06T12:47:12.344Z",
+    "customer_id": "96f55c7d8f46",
+    "total_amount": "17.5 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f46",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-09T12:55:55.555Z",
+    "customer_id": "96f55c7d8f46",
+    "total_amount": "11.2 USD"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-17T12:05:25.555Z",
+    "customer_id": "96f55c7d8f46",
+    "tags": [
+      {
+        "some key": "some value"
+      }
+    ]
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-17T12:55:25.555Z",
+    "customer_id": "96f55c7d8f46",
+    "total_amount": "20.2 USD"
+  },
+]
+
+
+2017-01-06T12:47:12.344Z
+2017-01-07T18:00:00.041Z
+2017-01-09T12:55:55.555Z
+2017-01-17T12:55:25.555Z
+2017-01-23T11:45:52.041Z
+
