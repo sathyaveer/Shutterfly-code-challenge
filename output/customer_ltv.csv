@@ -1,0 +1,7 @@
+CustomerId,Visits,TotalExpenditure,NumberOfWeeks,ExpenditurePerVisit,SiteVisitPerWeek,CustomerLTV
+96f55c7d8f42,6,68.34,4,11.39,1.5,8884.2
+96f55c7d8f46,3,60.9,4,20.3,0.75,7917.0
+96f55c7d8f44,5,55.2,4,11.04,1.25,7176.0
+96f55c7d8f43,4,46.0,4,11.5,1.0,5980.0
+96f55c7d8f45,6,26.93,4,4.48833333333,1.5,3500.9
+96f55c7d8f47,1,0.0,4,0.0,0.25,0.0
